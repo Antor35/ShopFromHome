@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_glossary"
+            android:icon="@drawable/ic_shopping_cart"
+            android:title="@string/menu_glossary" />
+        <item
+            android:id="@+id/nav_fish_and_meat"
+            android:icon="@drawable/ic_shopping_cart"
+            android:title="@string/menu_fish_meat" />
+        <item
+            android:id="@+id/nav_vegetable_and_fruit"
+            android:icon="@drawable/ic_shopping_cart"
+            android:title="@string/menu_vegetable"/>
+
+        <item
+            android:id="@+id/nav_medicine"
+            android:icon="@drawable/ic_shopping_cart"
+            android:title="@string/menu_medicine"/>
+
+        <item
+            android:id="@+id/nav_pet_and_cat"
+            android:icon="@drawable/ic_shopping_cart"
+            android:title="@string/menu_pet"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_donation"
+                android:icon="@drawable/ic_donation"
+                android:title="@string/menu_donation" />
+            <item
+                android:id="@+id/nav_payment_account"
+                android:icon="@drawable/ic_account"
+                android:title="@string/menu_payment_account" />
+        </menu>
+    </item>
+
+</menu>

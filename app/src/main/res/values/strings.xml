@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">StayHome</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_cart">Cart</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_glossary">glossary</string>
+    <string name="menu_fish_meat">Fish and Meat</string>
+    <string name="menu_vegetable">Vegetable and Fruit</string>
+    <string name="menu_medicine">Medicine</string>
+    <string name="menu_pet">Pet and Cat</string>
+    <string name="menu_payment_account">Open Payment Account</string>
+    <string name="menu_donation">Donation</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
